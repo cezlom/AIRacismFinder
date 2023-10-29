@@ -1,0 +1,5 @@
+"Pessoa A: Oi, você viu o novo funcionário que contrataram hoje?
+Pessoa B: Sim, vi. Parece que ele é de outra cultura, não é?
+Pessoa A: É verdade. Espero que ele não traga "problemas culturais" para o nosso ambiente.
+Pessoa B: Concordo. Já tivemos experiências ruins com pessoas de sua origem.
+Pessoa A: Exatamente, espero que ele se encaixe bem e não cause problemas"

@@ -1,0 +1,2 @@
+API_KEY = "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"
+ORG_ID = "org-8ACKtQAXXj1NwOKl0iWYHaip"
